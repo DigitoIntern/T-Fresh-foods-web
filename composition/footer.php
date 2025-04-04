@@ -9,7 +9,7 @@
             Fish market</p>
         </div>
         <div class="col-md-4">
-          <p>contact us <br>0755167080/0772396993</p>
+          <p>contact us <br>0704282083/0750769673</p>
         </div>
         <div class="col-md-4">
           <p>Social</p>

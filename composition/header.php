@@ -25,7 +25,7 @@
               <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
               <a href="tel:+256755167080"  style="text-decoration:none;">
                 <i class="fas fa-phone-square"></i>
-                +256 755 167 080
+                +256 704 282 083
               </a>
             </span>
           </div>
