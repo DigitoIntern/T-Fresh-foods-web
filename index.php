@@ -147,7 +147,7 @@ include("composition/header.php");
             <div class="card">
               <img src="assets/images/samo.jpg" class="card-img-top cardpic" alt="...">
               <div class="card-body">
-                <p class="card-text">Samosa 4 for Shs.1000/=<br>Samosa 2 for Shs.500/=</p>
+                <p class="card-text">Samosa 4 for Shs.1000/=<br>Meat Samosa 1 for Shs.1000/=</p>
               </div>
             </div>
             <div class="d-grid gap-2 justify-content-md-center">
