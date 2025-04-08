@@ -43,7 +43,7 @@ include("composition/header.php");
             <div class="card">
               <img src="assets/images/Chips masala anyone_.jfif" class="card-img-top cardpic" alt="...">
               <div class="card-body">
-                <p class="card-text">Plain Chips Shs.3000/= <br>Chips Masala Sh.8000/=</p>
+                <p class="card-text">Plain Chips Shs.4000/= <br>Chips Masala Sh.8000/=</p>
               </div>
             </div>
             <div class="d-grid gap-2 justify-content-md-center">
@@ -82,7 +82,7 @@ include("composition/header.php");
             <div class="card">
               <img src="assets/images/halfcakkk.jpg" class="card-img-top cardpic" alt="...">
               <div class="card-body">
-                <p class="card-text">Half cakes Shs.1000/=<br>Daddies Shs.1000/=</p>
+                <p class="card-text">Half cakes Shs.1000/=<br>Daddies Shs.2000/=</p>
               </div>
             </div>
             <div class="d-grid gap-2 justify-content-md-center">
@@ -95,7 +95,7 @@ include("composition/header.php");
             <div class="card">
               <img src="assets/images/muffin.jpg" class="card-img-top cardpic" alt="...">
               <div class="card-body">
-                <p class="card-text">Muffin Shs.1000/=<br> Birthday cakes Shs.50000/=</p>
+                <p class="card-text">Muffin Shs.1000/=<br> Birthday cakes Shs.1500000/=</p>
               </div>
             </div>
           </div>
@@ -161,7 +161,7 @@ include("composition/header.php");
               <img src="assets/images/Impossibly Decadent Triple Chocolate Cake.jfif" class="card-img-top cardpic"
                 alt="...">
               <div class="card-body">
-                <p class="card-text">Birthday cakes Shs.65000/=<br>Wedding cakes Shs.150000/=</p>
+                <p class="card-text">Birthday cakes Shs.150000/=<br>Wedding cakes Shs.800000/=</p>
               </div>
             </div>
             <div class="d-grid gap-2 justify-content-md-center">
